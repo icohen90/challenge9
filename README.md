@@ -14,7 +14,7 @@ In order to install this application you need node and inquirer
 
 
 # Screenshots 
-
+<img src="https://github.com/icohen90/challenge9/blob/main/images/demonstration.gif">
 
 # Built With
 
