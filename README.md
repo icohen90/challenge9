@@ -6,7 +6,7 @@ This application is designed for anybody to use. Start by answering the nine que
 # Table of Contents
   * [Installation](#Installation)
   * [Screenshots](#Screenshots)
-  * [Built With](#Built With)
+  * [Built With](#BuiltWith)
 
 # Installation
 
