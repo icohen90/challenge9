@@ -14,11 +14,7 @@ In order to install this application you need node and inquirer
 
 
 # Screenshots 
-<video width="320" height="240" controls>
-  <source src="https://github.com/icohen90/challenge9/blob/main/images/Untitled_%20Aug%2021%2C%202021%2012_42%20PM.mp4" type="video/mp4">
-  
 
-</video>
 
 # Built With
 
